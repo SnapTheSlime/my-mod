@@ -1,15 +1,1 @@
-pluginManagement {
-    repositories {
-        maven { name = 'Forge'; url = 'https://maven.minecraftforge.net/' }
-        mavenCentral()
-        gradlePluginPortal()
-    }
-}
-dependencyResolutionManagement {
-    repositoriesMode.set(RepositoriesMode.PREFER_SETTINGS)
-    repositories {
-        mavenCentral()
-        maven { name = 'Forge'; url = 'https://maven.minecraftforge.net/' }
-    }
-}
 rootProject.name = 'dominhquansword'
